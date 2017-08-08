@@ -21,6 +21,6 @@
         <Label x:Name="label1_Copy" Content="密码：" FontSize="16" HorizontalAlignment="Left" Margin="131,155,0,0" VerticalAlignment="Top" Width="42" Height="30"/>
         <PasswordBox x:Name="passwordBox" FontSize="16" HorizontalAlignment="Left" Margin="178,155,0,0" VerticalAlignment="Top" Width="217" Height="26"/>
         <Button x:Name="button" Content="登录"  FontSize="16" HorizontalAlignment="Left" Margin="178,25,0,0" VerticalAlignment="Top" Width="217" Height="28" Click="button_Click" Grid.Row="1"/>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="717" Margin="-830,-61,0,-206.4" VerticalAlignment="Top" Width="842" Grid.RowSpan="2"  Source="/image/login.png"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="717" Margin="-830,-61,0,-206.4" VerticalAlignment="Top" Width="842" Grid.RowSpan="2"  />
     </Grid>
 </Window>

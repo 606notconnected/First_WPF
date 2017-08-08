@@ -31,7 +31,7 @@ namespace First_WPF
         {
 
              //SetSource(image, "/image/login.png");
-             //image.Source = new BitmapImage(new Uri(@"/image/login.png", UriKind.Relative));
+             image.Source = new BitmapImage(new Uri(@"/image/login.png", UriKind.Relative));
              //MessageBox.Show("账号或密码错误");
         }
 
